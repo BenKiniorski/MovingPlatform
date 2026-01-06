@@ -41,4 +41,6 @@ public class MovingPlatform : MonoBehaviour
             collision.transform.parent = null;
         }
     }
+
+    //I used the code from this video to help me: https://www.youtube.com/watch?v=Ra26YGd5o5g&t=108s
 }
